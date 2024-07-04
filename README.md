@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dipan Das
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning backend technologies
+- 🌱 I’m currently working on backend technologies
 
 <!---
 Infamia2334/Infamia2334 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
