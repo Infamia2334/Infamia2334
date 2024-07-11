@@ -40,8 +40,8 @@ Welcome to my GitHub profile! I'm a passionate backend engineer with a strong ba
 
 ## 📫 How to reach me
 
-- Email: [your.email@example.com](mailto:dipanisboss@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](linkedin.com/in/dipan-das-556720172/)
+- Email: [Email](mailto:dipanisboss@gmail.com)
+- LinkedIn: [LinkedIn](linkedin.com/in/dipan-das-556720172/)
 
 ## 📊 GitHub Stats
 
