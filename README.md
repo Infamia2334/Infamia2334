@@ -1,4 +1,4 @@
-# Hi there, I'm [Dipan]! 👋
+# Hi there, I'm Dipan! 👋
 
 Welcome to my GitHub profile! I'm a passionate backend engineer with a strong background in Node.js, TypeScript, PostgreSQL, and Django and a host of other technologies. I love solving complex problems and building scalable systems.
 
