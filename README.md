@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a passionate backend engineer with a strong ba
 
 ## 📫 How to reach me
 
-- [Email](mailto:dipanisboss@gmail.com)
+- [Email](mailto:dipandas.mail@gmail.com)
 - [LinkedIn](linkedin.com/in/dipan-das-556720172/)
 
 ## 📊 GitHub Stats
